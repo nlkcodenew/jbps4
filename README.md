@@ -81,7 +81,7 @@ pio device monitor       # Serial 115200
 2. Trên PS4 (FW 9.00), vào **Settings → Network → Set Up Internet → Use Wi-Fi**,
    chọn `jbps4`, nhập password `jbps4000`.
 3. PS4 sẽ mở captive portal tự động → exploit chain chạy → GoldHEN load xong
-   sẽ hiện thông báo "GoldHEN" trên PS4.
+   sẽ hiện thông báo "GoldHEN" trên PS4. Hoặc nếu không mở thì dùng tay cầm vào www của ps4 rồi gõ url 10.1.1.1 là tự động hack
 4. Nếu PS4 không tự mở portal, vào **Settings → User's Guide / User's Help**.
    Trên một số FW có thể cần **Settings → Network → Test Internet Connection**.
 
